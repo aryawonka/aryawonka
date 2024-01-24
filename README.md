@@ -8,12 +8,11 @@
 <h5 align="center">
 
 
-- 🏢 I'm student of Management Information Systems at Akdeniz University
+- 🏢 I'm graduated from Management Information Systems at Akdeniz University
 - 🌱 I’m currently learning Java Spring and other software technologies
 - 👯 I’m looking to collaborate on development in software
 - 💬 Ask me about all about software technologies
 - 📫 How to reach me: arya.sanliii@gmail.com
-- 😄 Pronouns: She
 - ⚡ Fun fact: Im addicted to games 😄
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aryasanli&show_icons=true&theme=radical)
