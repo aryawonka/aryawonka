@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aryasanli.aryasanli">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aryawonka.aryawonka">
 <h1 align="center">
-  <a href="https://github.com/aryasanli">
+  <a href="https://github.com/aryawonka">
     <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
   </a>
 </h1>
