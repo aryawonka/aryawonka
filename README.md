@@ -9,7 +9,7 @@
 
 
 - 🏢 I'm graduated from Management Information Systems at Akdeniz University
-- 🌱 I’m currently learning Java Spring and other software technologies
+- 🌱 I’m currently learning Game Development and other software technologies
 - 👯 I’m looking to collaborate on development in software
 - 💬 Ask me about all about software technologies
 - 📫 How to reach me: arya.sanliii@gmail.com
@@ -19,6 +19,9 @@
 
 <h3 align="left">Languages and Tools that I am learning / have interest:</h3>
 <p align="left">
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="unity" width="40" height="40"/>
+  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgreSQL" width="40" height="40"/>
   </a>
